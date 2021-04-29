@@ -16,6 +16,7 @@ function a() {
 }
 
 
+
 function b() {
     var x = 1;
     console.log(x);
