@@ -5,6 +5,8 @@ function square(num) {
     return ans;
 }
 
+
+
 var squareOne = square(n);
 
 var squareTwo = square(4);
