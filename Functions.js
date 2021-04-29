@@ -15,6 +15,7 @@ function a() {
     console.log(x);
 }
 
+
 function b() {
     var x = 1;
     console.log(x);
