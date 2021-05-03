@@ -25,4 +25,7 @@ a = "Hi";
 console.log(a);
 a = true;
 console.log(a);
+a = 89.90;
+console.log(a);
+
 
