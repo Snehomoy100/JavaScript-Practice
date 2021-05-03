@@ -3,7 +3,7 @@ function a(){
     var b = 10;
     c();
     function c() {
-       
+       console.log(b);
     }
 }
 
@@ -11,5 +11,4 @@ function a(){
 
 a();
 
-console.log(b);
 
