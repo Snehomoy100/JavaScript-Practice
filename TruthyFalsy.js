@@ -6,6 +6,10 @@
 // NaN;
 // '';
 
+
+// All the values other than above mentioned are known as Truthy Values.
+
+
 const value = "null";
 
 if (2 == "2") {
